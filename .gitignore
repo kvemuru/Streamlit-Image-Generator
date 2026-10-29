@@ -1,0 +1,10 @@
+# Large model checkpoints
+*.ckpt
+*.safetensors
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local notes
+make_random_dreamlike_notes.txt
